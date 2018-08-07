@@ -1,0 +1,228 @@
+[27-May-2018 14:04:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:11:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:12:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:12:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:13:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:13:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:15:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/creditsh/public_html/CloudClassroom/database.php on line 4
+[27-May-2018 14:15:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:16:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:22:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:22:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root@cc.com'@'localhost' (using password: YES) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:22:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '%' (0) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:23:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '%' (0) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:24:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/creditsh/public_html/CloudClassroom/database.php:7
+Stack trace:
+#0 /home/creditsh/public_html/CloudClassroom/registrationform.php(63): include()
+#1 {main}
+  thrown in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:25:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/creditsh/public_html/CloudClassroom/database.php:7
+Stack trace:
+#0 /home/creditsh/public_html/CloudClassroom/registrationform.php(63): include()
+#1 {main}
+  thrown in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:25:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/creditsh/public_html/CloudClassroom/database.php:7
+Stack trace:
+#0 /home/creditsh/public_html/CloudClassroom/registrationform.php(63): include()
+#1 {main}
+  thrown in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:25:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:31:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'localhost' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:33:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'seacoreweb.com:2083' (0) in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:33:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:33:47 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:34:09 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 4
+[27-May-2018 14:34:09 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 7
+[27-May-2018 14:34:09 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 8
+[27-May-2018 14:34:09 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 9
+[27-May-2018 14:34:09 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:34:47 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:37:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:37:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'creditsh_cc_db'@'103.235.105.70' to database 'cc_db' in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[27-May-2018 14:40:05 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[27-May-2018 14:40:05 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[27-May-2018 14:40:05 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[27-May-2018 14:40:05 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[27-May-2018 14:40:09 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 4
+[27-May-2018 14:40:09 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 7
+[27-May-2018 14:40:09 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 8
+[27-May-2018 14:40:09 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 9
+[27-May-2018 14:40:09 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 20
+[27-May-2018 14:42:42 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[27-May-2018 14:42:42 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[27-May-2018 14:42:42 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[27-May-2018 14:42:42 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[27-May-2018 17:32:19 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutadmin.php on line 6
+[28-May-2018 03:41:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 32
+[28-May-2018 03:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 32
+[28-May-2018 03:41:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 32
+[28-May-2018 03:41:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 32
+[28-May-2018 05:15:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:26:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:26:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:26:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:27:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 09:43:08 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[28-May-2018 13:15:35 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 4
+[28-May-2018 13:15:35 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 8
+[28-May-2018 13:15:35 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 9
+[28-May-2018 16:32:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:32:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:34:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:36:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:38:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:39:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:39:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:45:23 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[28-May-2018 16:45:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 32
+[28-May-2018 16:45:54 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[28-May-2018 16:45:54 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[28-May-2018 16:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:46:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 56
+[28-May-2018 16:51:37 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[28-May-2018 16:54:13 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[28-May-2018 22:29:11] PHP Notice:  Undefined index:  fidx in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 4
+[28-May-2018 22:29:11] PHP Notice:  Undefined index:  fidx in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 8
+[28-May-2018 22:29:11] PHP Notice:  Undefined index:  fname in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 9
+[28-May-2018 22:29:11] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 22:30:15] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 22:30:27] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 22:30:32] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 22:30:57] PHP Notice:  Undefined index:  sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[28-May-2018 22:30:57] PHP Notice:  Undefined index:  sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[28-May-2018 22:30:57] PHP Notice:  Undefined index:  fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[28-May-2018 22:30:57] PHP Notice:  Undefined index:  lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[28-May-2018 22:30:57] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 22:30:59] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/creditsh/public_html/CloudClassroom/database.php on line 7
+[28-May-2018 17:03:01 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[01-Jun-2018 17:21:25 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[01-Jun-2018 17:21:25 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[01-Jun-2018 17:21:25 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[01-Jun-2018 17:21:25 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[03-Jun-2018 14:42:28 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[03-Jun-2018 14:45:57 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[03-Jun-2018 14:46:06 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[03-Jun-2018 15:36:00 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 5
+[03-Jun-2018 15:36:00 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[03-Jun-2018 15:36:05 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment2.php on line 4
+[03-Jun-2018 15:36:05 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment2.php on line 8
+[03-Jun-2018 15:36:05 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/manageassessment2.php on line 9
+[03-Jun-2018 15:36:07 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 4
+[03-Jun-2018 15:36:07 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 8
+[03-Jun-2018 15:36:07 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 9
+[03-Jun-2018 15:36:09 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/assessment.php on line 4
+[03-Jun-2018 15:36:09 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/assessment.php on line 8
+[03-Jun-2018 15:36:09 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/assessment.php on line 9
+[03-Jun-2018 15:36:10 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 4
+[03-Jun-2018 15:36:10 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 8
+[03-Jun-2018 15:36:10 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 9
+[03-Jun-2018 15:55:28 UTC] PHP Notice:  Undefined index: aid in /home/creditsh/public_html/CloudClassroom/loginlinkadmin.php on line 6
+[03-Jun-2018 15:55:28 UTC] PHP Notice:  Undefined index: apass in /home/creditsh/public_html/CloudClassroom/loginlinkadmin.php on line 7
+[03-Jun-2018 15:55:35 UTC] PHP Notice:  Undefined index: aid in /home/creditsh/public_html/CloudClassroom/loginlinkadmin.php on line 6
+[03-Jun-2018 15:55:35 UTC] PHP Notice:  Undefined index: apass in /home/creditsh/public_html/CloudClassroom/loginlinkadmin.php on line 7
+[04-Jun-2018 04:22:00 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[04-Jun-2018 04:38:06 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 4
+[04-Jun-2018 04:38:06 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 8
+[04-Jun-2018 04:38:07 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 9
+[04-Jun-2018 04:38:07 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 10
+[04-Jun-2018 04:52:10 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[05-Jun-2018 09:41:02 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[05-Jun-2018 09:41:02 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[05-Jun-2018 09:41:02 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[05-Jun-2018 09:41:02 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[05-Jun-2018 09:42:08 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[05-Jun-2018 09:42:32 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutstudent.php on line 6
+[05-Jun-2018 09:43:54 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutfaculty.php on line 6
+[05-Jun-2018 09:44:11 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutadmin.php on line 6
+[05-Jun-2018 09:44:18 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutadmin.php on line 6
+[05-Jun-2018 09:44:22 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/creditsh/public_html/CloudClassroom/logoutadmin.php on line 6
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 9
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/viewvideos.php on line 10
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 9
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 9
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/studentdetails.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/studentdetails.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 7
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 9
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 10
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: exid in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 19
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 7
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 9
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 7
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 4
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 8
+[05-Jun-2018 10:14:49 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 9
+[05-Jun-2018 10:14:50 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 4
+[05-Jun-2018 10:14:50 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 8
+[05-Jun-2018 10:14:50 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/addvideos.php on line 9
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 4
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 7
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 8
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 9
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 10
+[05-Jun-2018 10:15:12 UTC] PHP Notice:  Undefined index: exid in /home/creditsh/public_html/CloudClassroom/takeassessment2.php on line 19
+[05-Jun-2018 10:15:13 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 4
+[05-Jun-2018 10:15:13 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 8
+[05-Jun-2018 10:15:13 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomefaculty.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 8
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 10
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 11
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 8
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/examDetails.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/videos.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/videos.php on line 8
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/videos.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/viewstudentdetails.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/viewstudentdetails.php on line 8
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewstudentdetails.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 8
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/manageassessment.php on line 9
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/welcomeadmin.php on line 7
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/studentdetails.php on line 4
+[05-Jun-2018 10:15:14 UTC] PHP Notice:  Undefined index: umail in /home/creditsh/public_html/CloudClassroom/studentdetails.php on line 8
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/assessment.php on line 4
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/assessment.php on line 8
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/assessment.php on line 9
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 4
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 8
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/addassessment.php on line 9
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 4
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fidx in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 8
+[05-Jun-2018 10:15:15 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/managevideos.php on line 9
+[05-Jun-2018 12:57:27 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 4
+[05-Jun-2018 12:57:27 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 8
+[05-Jun-2018 12:57:27 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 9
+[05-Jun-2018 12:57:27 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 10
+[05-Jun-2018 12:57:27 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/welcomestudent.php on line 11
+[13-Jun-2018 09:07:20 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[13-Jun-2018 09:07:20 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[13-Jun-2018 09:07:20 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[13-Jun-2018 09:07:20 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
+[13-Jun-2018 09:09:36 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 4
+[13-Jun-2018 09:09:36 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 7
+[13-Jun-2018 09:09:36 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 8
+[13-Jun-2018 09:09:36 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 9
+[13-Jun-2018 09:09:36 UTC] PHP Notice:  Undefined index: seno in /home/creditsh/public_html/CloudClassroom/viewresult.php on line 20
+[13-Jun-2018 09:09:37 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 4
+[13-Jun-2018 09:09:37 UTC] PHP Notice:  Undefined index: sidx in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 8
+[13-Jun-2018 09:09:37 UTC] PHP Notice:  Undefined index: fname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 9
+[13-Jun-2018 09:09:37 UTC] PHP Notice:  Undefined index: lname in /home/creditsh/public_html/CloudClassroom/takeassessment.php on line 10
