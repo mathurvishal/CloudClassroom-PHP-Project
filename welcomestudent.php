@@ -28,7 +28,7 @@ $userlname = $_SESSION[ "lname" ];
 			<a href="askquery.php?eid=<?php echo $userid;  ?>"> <button  href="" type="submit" class="btn btn-primary">Ask Query</button></a>
 			
 			<a href="viewvideos.php?eid=<?php echo $userid;  ?>"> <button  href="" type="submit" class="btn btn-primary">Videos (E-Learn)</button></a>
-			
+			<a href="librarypayment.php?seno=<?php echo $sEno;  ?>"> <button  href="" type="submit" class="btn btn-primary">Payment</button> </a>
 			<a href="logoutstudent"><button  href="" type="submit" class="btn btn-danger">Logout</button></a>
 
 		</div>
